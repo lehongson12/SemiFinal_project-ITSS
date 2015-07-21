@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CreatingA2DSprite">
+</Property><Property Name="Solution File" Value="C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite.sln">
+</Property><Property Name="Date" Value="Wednesday, February 20, 2013">
+</Property><Property Name="Time" Value="22:58 PM">
+</Property><Property Name="Solution" Value="CreatingA2DSprite">
+</Property><Property Name="Solution File" Value="C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite.sln">
+</Property><Property Name="Date" Value="Wednesday, February 20, 2013">
+</Property><Property Name="Time" Value="22:58:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CreatingA2DSprite" Source="CreatingA2DSprite\CreatingA2DSprite.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="CreatingA2DSprite" Source="CreatingA2DSprite\CreatingA2DSprite.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CreatingA2DSprite" Source="CreatingA2DSprite\CreatingA2DSprite.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CreatingA2DSprite.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CreatingA2DSprite.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CreatingA2DSprite" Source="CreatingA2DSprite\CreatingA2DSprite.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CreatingA2DSprite" Source="CreatingA2DSprite\CreatingA2DSprite.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="CreatingA2DSpriteContent" Source="CreatingA2DSprite\Content\CreatingA2DSpriteContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

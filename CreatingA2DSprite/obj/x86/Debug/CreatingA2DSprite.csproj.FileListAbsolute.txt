@@ -1,0 +1,264 @@
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.exe
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.pdb
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.exe
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.pdb
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\SquareGuy.xnb
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Jump.xnb
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\theAlien.xnb
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Elevator.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.exe
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.pdb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.exe
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.pdb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\font.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.Author.resources
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.Form1.resources
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\music\euro.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\music\euro.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\theAlien.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevator.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\arrow.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\background.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevatorDoor.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\Menu_banner.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\about.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\button.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\exit.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\ok.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\setting.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\start.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\tutorial.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\back.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner1.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner3.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner2.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\mouse_cusor.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound1.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound2.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound3.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\theAlien.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevator.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\arrow.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevatorDoor.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\Menu_banner.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\about.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner3.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\button.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\background.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\exit.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\ok.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\setting.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\start.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\tutorial.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner2.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner1.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\back.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\mouse_cusor.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound1.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound2.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound3.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\font.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.xnb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.wma
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.wma
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.wma
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.wma
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.wma
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.exe
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.pdb
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.Author.resources
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.Form1.resources
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.exe
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.pdb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\theAlien.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevator.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\arrow.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevatorDoor.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\Menu_banner.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\about.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner3.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\button.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\background.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\exit.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\ok.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\setting.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\start.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\tutorial.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner2.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner1.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\back.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\mouse_cusor.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound1.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound2.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound3.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\font.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.xnb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.wma
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.exe
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.pdb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.Author.resources
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.exe
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.pdb
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\obj\x86\Debug\Object.Form1.resources
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.Author.resources
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\Object.Form1.resources
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.exe
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\theAlien.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevator.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\arrow.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevatorDoor.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\Menu_banner.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\about.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner3.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\button.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\background.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\exit.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\ok.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\setting.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\start.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\tutorial.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner2.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner1.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\back.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\mouse_cusor.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound1.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound2.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound3.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\font.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.xnb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.wma
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.wma
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.wma
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.wma
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.wma
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.exe
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.pdb
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.pdb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevator.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\arrow.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevatorDoor.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\Menu_banner.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\about.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner3.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\button.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\background.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\exit.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\ok.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\setting.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\start.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\tutorial.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner2.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner1.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\back.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\mouse_cusor.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound1.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound2.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound3.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\font.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.wma
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.wma
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.wma
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.wma
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.wma
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.exe
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.pdb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\obj\x86\Debug\Object.Form1.resources
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.exe
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.pdb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\human0.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\human1.xnb
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\human2.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\font.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevator.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\arrow.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\elevatorDoor.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\Menu_banner.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\about.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner3.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\button.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\background.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\exit.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\ok.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\setting.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\start.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\tutorial.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner2.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\banner1.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\back.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\mouse_cusor.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound1.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound2.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_start\backgound3.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\human0.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\human1.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Object_play\human2.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.xnb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\euro.wma
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup_2.wma
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\world_cup.wma
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\gangnam.wma
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\Content\Music\camera.wma
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.exe
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\bin\x86\Debug\CreatingA2DSprite.pdb
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\obj\x86\Debug\Object.Form1.resources
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.exe
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\obj\x86\Debug\CreatingA2DSprite.pdb

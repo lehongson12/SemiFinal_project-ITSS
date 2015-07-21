@@ -1,0 +1,7 @@
+C:\Users\superman92\Documents\Visual Studio 2010\Projects\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\CreatingA2DSprite\CreatingA2DSprite\CreatingA2DSprite\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pro\New folder\CreatingA2DSprite\CreatingA2DSprite\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pro\New folder\CreatingA2DSprite_1\CreatingA2DSprite\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\superman92\Desktop\CreatingA2DSprite_ok\CreatingA2DSprite\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\superman92\Desktop\SemiFinal_Project\CreatingA2DSprite\Content\obj\x86\Debug\ResolveAssemblyReference.cache
